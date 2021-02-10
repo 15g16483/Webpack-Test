@@ -1,5 +1,7 @@
 import * as p5 from 'p5';
 
+let a = 5;
+
 import * as Matter from 'matter-js';
 
 // module aliases
