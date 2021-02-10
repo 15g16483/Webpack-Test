@@ -1,4 +1,4 @@
-import * as p5 from 'p5';
+let p5 = require('p5')
 
 let a = 5;
 
